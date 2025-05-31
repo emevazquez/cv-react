@@ -3,7 +3,7 @@
 ## 🚀 Senior .NET Developer | Technical Lead
 
 [![Deploy to GitHub Pages](https://github.com/emevazquez/cv-react/actions/workflows/deploy.yml/badge.svg)](https://github.com/tu-usuario/cv-react/actions/workflows/deploy.yml)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-blue)](https://tu-usuario.github.io/cv-react)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-blue)](https://emevazquez.github.io/cv-react)
 
 ### 📋 Descripción
 
