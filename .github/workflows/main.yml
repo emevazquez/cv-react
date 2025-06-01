@@ -29,11 +29,13 @@ jobs:
         
     - name: Install dependencies
       run: npm install
-      
+      working-directory: ./cv-react
+
     - name: Build project
       run: npm run build
       env:
         CI: false
+      working-directory: ./cv-react
         
     - name: Setup Pages
       uses: actions/configure-pages@v4
