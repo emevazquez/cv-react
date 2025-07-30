@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pIadP1515+D9senaevMPTKbd717p3KhhnYNvjxmAQuE=",
+  "Source": "mi-api-dotnet",
+  "BasePath": "_content/mi-api-dotnet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
